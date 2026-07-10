@@ -1,30 +1,30 @@
 # Triad Battle Walkie-Talkie
 
 A real-time web-based walkie-talkie application that enables voice communication between multiple users across different frequency channels using WebRTC technology.
- ---
+
 ## Features
 
-✨ **Multi-Channel Communication**
+**Multi-Channel Communication**
 - Three distinct frequency channels (Channel 1, 2, 3)
 - Switch between channels in real-time
 - Independent audio streams per channel
 
-🎙️ **Push-to-Talk (PTT) Control**
+**Push-to-Talk (PTT) Control**
 - Hold-to-talk functionality for transmission control
 - Disabled by default for privacy
 - Interactive visual feedback during transmission
 
-📊 **Real-Time Audio Visualization**
+**Real-Time Audio Visualization**
 - Live frequency spectrum display
 - Visual feedback for both local and remote audio
 - Dynamic color-coded audio levels
 
-🔌 **WebRTC Peer-to-Peer Communication**
+**WebRTC Peer-to-Peer Communication**
 - Direct peer connections with ICE candidates
 - Signaling server for connection negotiation
 - Support for multiple simultaneous connections per channel
 
-🎯 **User-Friendly Interface**
+**User-Friendly Interface**
 - Bootstrap 5 responsive design
 - Connection status indicators
 - Microphone and remote device status displays
