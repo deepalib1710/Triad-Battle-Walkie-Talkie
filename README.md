@@ -37,8 +37,6 @@ A real-time web-based walkie-talkie application that enables voice communication
 - **Real-Time Communication:** WebRTC, Socket.io
 - **Audio Processing:** Web Audio API
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (v14 or higher)
